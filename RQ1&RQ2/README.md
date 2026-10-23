@@ -16,7 +16,6 @@ RQ1&RQ2/
 │   ├── xz_grid_search/
 │   ├── zopfli_grid_search/
 │   ├── zstd_grid_search/
-│   ├── package_size_comparison.csv
 │   ├── package_size_comparison_2500.csv
 │   ├── top_2500_depended.csv
 │   └── top_2500_depended_enriched.csv

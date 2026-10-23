@@ -1,0 +1,11 @@
+# started on Fri Sep 18 15:18:04 2026
+
+
+ Performance counter stats for 'system wide':
+
+              0.31 Joules power/energy-pkg/                                                     
+              0.03 Joules power/energy-ram/                                                     
+
+       0.004333277 seconds time elapsed
+
+xz -dc npm-exp/pkgs/xz/@radix-ui__primitive--primitive-1.1.3.tar.xz > npm-exp/results/run_72_repetition_27/decompressed/output.taroutput.tar

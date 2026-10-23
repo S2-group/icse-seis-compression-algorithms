@@ -1,0 +1,11 @@
+# started on Sat Sep 19 18:36:40 2026
+
+
+ Performance counter stats for 'system wide':
+
+              5.33 Joules power/energy-pkg/                                                     
+              0.63 Joules power/energy-ram/                                                     
+
+       0.081985506 seconds time elapsed
+
+tar -xzf npm-exp/pkgs/npm/libphonenumber-js--libphonenumber-js-1.13.3.tgz -C npm-exp/results/run_53_repetition_2/decompressed/

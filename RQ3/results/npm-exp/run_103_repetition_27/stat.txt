@@ -1,0 +1,11 @@
+# started on Fri Sep 18 18:50:35 2026
+
+
+ Performance counter stats for 'system wide':
+
+              6.59 Joules power/energy-pkg/                                                     
+              0.77 Joules power/energy-ram/                                                     
+
+       0.103189015 seconds time elapsed
+
+xz -dc npm-exp/pkgs/xz/prettier--prettier-3.8.3.tar.xz > npm-exp/results/run_103_repetition_27/decompressed/output.taroutput.tar

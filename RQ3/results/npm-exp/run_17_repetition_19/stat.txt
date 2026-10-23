@@ -1,0 +1,11 @@
+# started on Sat Sep 19 19:48:53 2026
+
+
+ Performance counter stats for 'system wide':
+
+              0.33 Joules power/energy-pkg/                                                     
+              0.04 Joules power/energy-ram/                                                     
+
+       0.004890870 seconds time elapsed
+
+tar -xzf npm-exp/pkgs/npm/source-list-map--source-list-map-2.0.1.tgz -C npm-exp/results/run_17_repetition_19/decompressed/

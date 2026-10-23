@@ -1,0 +1,11 @@
+# started on Sat Sep 19 17:41:21 2026
+
+
+ Performance counter stats for 'system wide':
+
+              3.36 Joules power/energy-pkg/                                                     
+              0.40 Joules power/energy-ram/                                                     
+
+       0.052169325 seconds time elapsed
+
+tar -xzf npm-exp/pkgs/npm/node-notifier--node-notifier-10.0.1.tgz -C npm-exp/results/run_54_repetition_14/decompressed/

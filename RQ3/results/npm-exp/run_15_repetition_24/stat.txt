@@ -1,0 +1,11 @@
+# started on Fri Sep 18 16:33:35 2026
+
+
+ Performance counter stats for 'system wide':
+
+              0.33 Joules power/energy-pkg/                                                     
+              0.04 Joules power/energy-ram/                                                     
+
+       0.004944520 seconds time elapsed
+
+tar -xzf npm-exp/pkgs/npm/html-escaper--html-escaper-3.0.3.tgz -C npm-exp/results/run_15_repetition_24/decompressed/

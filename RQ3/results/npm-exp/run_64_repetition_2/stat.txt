@@ -1,0 +1,11 @@
+# started on Fri Sep 18 17:58:07 2026
+
+
+ Performance counter stats for 'system wide':
+
+              0.29 Joules power/energy-pkg/                                                     
+              0.03 Joules power/energy-ram/                                                     
+
+       0.004072123 seconds time elapsed
+
+xz -dc npm-exp/pkgs/xz/@babel__plugin-transform-regexp-modifiers--plugin-transform-regexp-modifiers-7.28.6.tar.xz > npm-exp/results/run_64_repetition_2/decompressed/output.taroutput.tar

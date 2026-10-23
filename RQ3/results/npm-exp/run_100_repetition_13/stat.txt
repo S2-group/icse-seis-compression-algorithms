@@ -1,0 +1,11 @@
+# started on Sat Sep 19 20:54:33 2026
+
+
+ Performance counter stats for 'system wide':
+
+             73.01 Joules power/energy-pkg/                                                     
+              8.61 Joules power/energy-ram/                                                     
+
+       1.144725793 seconds time elapsed
+
+xz -dc npm-exp/pkgs/xz/next--next-16.2.6.tar.xz > npm-exp/results/run_100_repetition_13/decompressed/output.taroutput.tar

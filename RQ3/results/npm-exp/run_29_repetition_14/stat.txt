@@ -1,0 +1,11 @@
+# started on Sat Sep 19 20:00:34 2026
+
+
+ Performance counter stats for 'system wide':
+
+              0.39 Joules power/energy-pkg/                                                     
+              0.05 Joules power/energy-ram/                                                     
+
+       0.006046550 seconds time elapsed
+
+tar -xzf npm-exp/pkgs/npm/@parcel__watcher--watcher-2.5.6.tgz -C npm-exp/results/run_29_repetition_14/decompressed/

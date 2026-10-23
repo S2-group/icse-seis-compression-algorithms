@@ -1,0 +1,11 @@
+# started on Sat Sep 19 18:20:39 2026
+
+
+ Performance counter stats for 'system wide':
+
+              3.58 Joules power/energy-pkg/                                                     
+              0.43 Joules power/energy-ram/                                                     
+
+       0.054787452 seconds time elapsed
+
+tar -xzf npm-exp/pkgs/npm/webpack--webpack-5.107.1.tgz -C npm-exp/results/run_51_repetition_0/decompressed/

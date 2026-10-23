@@ -1,0 +1,11 @@
+# started on Sat Sep 19 17:37:05 2026
+
+
+ Performance counter stats for 'system wide':
+
+              0.30 Joules power/energy-pkg/                                                     
+              0.03 Joules power/energy-ram/                                                     
+
+       0.004360376 seconds time elapsed
+
+tar -xzf npm-exp/pkgs/npm/client-only--client-only-0.0.1.tgz -C npm-exp/results/run_1_repetition_8/decompressed/

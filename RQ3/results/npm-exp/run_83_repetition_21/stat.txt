@@ -1,0 +1,11 @@
+# started on Sat Sep 19 17:35:08 2026
+
+
+ Performance counter stats for 'system wide':
+
+              9.96 Joules power/energy-pkg/                                                     
+              1.19 Joules power/energy-ram/                                                     
+
+       0.153702591 seconds time elapsed
+
+xz -dc npm-exp/pkgs/xz/date-fns--date-fns-4.3.0.tar.xz > npm-exp/results/run_83_repetition_21/decompressed/output.taroutput.tar

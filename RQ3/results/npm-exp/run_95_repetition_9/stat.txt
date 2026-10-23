@@ -1,0 +1,11 @@
+# started on Fri Sep 18 16:48:21 2026
+
+
+ Performance counter stats for 'system wide':
+
+              0.74 Joules power/energy-pkg/                                                     
+              0.09 Joules power/energy-ram/                                                     
+
+       0.011648113 seconds time elapsed
+
+xz -dc npm-exp/pkgs/xz/immer--immer-11.1.8.tar.xz > npm-exp/results/run_95_repetition_9/decompressed/output.taroutput.tar

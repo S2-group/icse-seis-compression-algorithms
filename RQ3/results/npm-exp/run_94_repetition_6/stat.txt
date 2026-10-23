@@ -1,0 +1,11 @@
+# started on Fri Sep 18 17:42:50 2026
+
+
+ Performance counter stats for 'system wide':
+
+              1.12 Joules power/energy-pkg/                                                     
+              0.14 Joules power/energy-ram/                                                     
+
+       0.017315221 seconds time elapsed
+
+xz -dc npm-exp/pkgs/xz/iconv-lite--iconv-lite-0.7.2.tar.xz > npm-exp/results/run_94_repetition_6/decompressed/output.taroutput.tar

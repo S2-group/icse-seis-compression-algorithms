@@ -1,0 +1,11 @@
+# started on Sat Sep 19 20:42:59 2026
+
+
+ Performance counter stats for 'system wide':
+
+              1.98 Joules power/energy-pkg/                                                     
+              0.24 Joules power/energy-ram/                                                     
+
+       0.030877962 seconds time elapsed
+
+xz -dc npm-exp/pkgs/xz/eslint-plugin-import--eslint-plugin-import-2.32.0.tar.xz > npm-exp/results/run_87_repetition_23/decompressed/output.taroutput.tar

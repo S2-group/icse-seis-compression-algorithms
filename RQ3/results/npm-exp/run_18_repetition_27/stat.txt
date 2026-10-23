@@ -1,0 +1,11 @@
+# started on Sat Sep 19 20:38:10 2026
+
+
+ Performance counter stats for 'system wide':
+
+              0.33 Joules power/energy-pkg/                                                     
+              0.04 Joules power/energy-ram/                                                     
+
+       0.005229688 seconds time elapsed
+
+tar -xzf npm-exp/pkgs/npm/fetch-blob--fetch-blob-4.0.0.tgz -C npm-exp/results/run_18_repetition_27/decompressed/

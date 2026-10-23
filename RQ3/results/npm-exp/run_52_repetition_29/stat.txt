@@ -1,0 +1,11 @@
+# started on Sat Sep 19 17:44:40 2026
+
+
+ Performance counter stats for 'system wide':
+
+              4.86 Joules power/energy-pkg/                                                     
+              0.57 Joules power/energy-ram/                                                     
+
+       0.075475054 seconds time elapsed
+
+tar -xzf npm-exp/pkgs/npm/@opentelemetry__semantic-conventions--semantic-conventions-1.41.1.tgz -C npm-exp/results/run_52_repetition_29/decompressed/

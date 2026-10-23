@@ -19,9 +19,12 @@ If this replication package is helping your research, consider to cite it is as 
 
 The replication package contains one folder for each research question of the paper. The structure is as follows:
 
-- `./RQ1`: Contains the material/code/data for RQ1.
-- `./RQ2`: Contains the material/code/data for RQ2.
+- `./RQ1&RQ2`: Contains the material/code/data for RQ1 and RQ2. See [RQ1](#rq1) and [RQ2](#rq2) below.
 - `./RQ3`: Contains the package sampling, the experiment configuration and scripts, the raw measurements, and the data analysis for RQ3 (energy consumption of decompressing npm packages compressed with different algorithms). See [RQ3](#rq3) below.
+
+## RQ1
+
+## RQ2
 
 ## RQ3
 

@@ -24,7 +24,11 @@ The replication package contains one folder for each research question of the pa
 
 ## RQ1
 
+RQ1 compares the size reductions when compressing npm packages with `xz`, `brotli`, `zstd` and `zopfli` against the baseline. A grid search is performed for each tool to find the configuration that minimizes the dataset size. 
+
 ## RQ2
+
+RQ2 estimates the energy savings that can be achieved for network transfer `xz`, `brotli`, `zstd` and `zopfli` against the baseline.
 
 ## RQ3
 
